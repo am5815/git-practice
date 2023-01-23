@@ -53,3 +53,4 @@ An [**example site**](http://pfnp.adrianbautista.com) built with this template.
        ```
        <img src="/images/your_picture.jpg">
        ```
+# git-practice
